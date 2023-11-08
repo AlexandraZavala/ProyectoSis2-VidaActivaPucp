@@ -1,6 +1,11 @@
 
 # Propuesta UX-UI: Vida Activa PUCP
 
+<p align="center">
+  <img src="/inicio.png" alt="Image 1" width="200"/>
+  <img src="/Eventos.png" alt="Image 2" width="200"/>
+</p>
+
 Desarrollamos un sistema interactivo para la reserva de espacios deportivos y la gestión de eventos en la PUCP, dirigido a mejorar la experiencia de estudiantes y personal administrativo en la promoción de estilos de vida saludables.
 
 ## Herramientas UX
