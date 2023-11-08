@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="/inicio.png" alt="Image 1" width="200"/>
+  <img src="/principal.png" alt="Image 2" width="200"/>
+  <img src="/reservaActual.png" alt="Image 2" width="200"/>
   <img src="/Eventos.png" alt="Image 2" width="200"/>
 </p>
 
